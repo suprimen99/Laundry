@@ -60,7 +60,7 @@ const BottomNavigator = ({ state, descriptors, navigation }) => {
 const styles = StyleSheet.create({
   container : {
     flexDirection : 'row',
-    backgroundColor : '#F9F5F6',
+    backgroundColor : '#ffffff',
     justifyContent : 'space-between',
     paddingHorizontal : 55,
     paddingVertical : 14 ,
